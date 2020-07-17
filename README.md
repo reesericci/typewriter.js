@@ -1,4 +1,4 @@
-# typewriter.js
+# [typewriter.js](https://github.com/reesericci/typewriter.js)
 A super-simple library to type-out text with javascript.
 
 ### Adapted from [this codepen](https://codepen.io/hi-im-si/pen/DHoup)
