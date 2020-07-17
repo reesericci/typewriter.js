@@ -28,7 +28,9 @@ e.g.
 class: `typewrite`
 
 data:
+  
   time (amt of time for typing): `type-time="time in ms"`
+  
   data (the text being typed): `type-data='[ "Text #1" ], [ "Text #2, Text #1 got erased to show Text #2" ]'`
 
 e.g.
